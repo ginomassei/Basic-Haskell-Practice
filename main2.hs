@@ -1,8 +1,7 @@
-{-|
-Alumnos: 
+{- Alumnos: 
 Massei, Gino - 79366
 Perlo, Matías - 83723
-Lacias, Ignacio - 71348
+Laciar, Ignacio - 71348
 Gonzales, Facundo - 77494
 -}
 
